@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333¢er=true&vCenter=true&width=500&lines=Hello%2C+Welcome+to+my+Profile!;I+am+Haikal+Rizky;A+Passionate+Web+Developer;Building+Digital+Solutions" alt="Typing SVG - Haikal Rizky" />
-</p>
+
+  <H1 align="center">WELCOME TO MY PROFILE</H1>
+
 
 <p align="center">
   <a href="https://github.com/haikal-266">
