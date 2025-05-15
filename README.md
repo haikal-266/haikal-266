@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Haikal Rizky Tri Pramudya
 
-<!--
-**haikal-266/haikal-266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning web development
+- 📫 How to reach me: [Instagram](https://instagram.com/username) | [LinkedIn](https://linkedin.com/in/username)
+- ⚡ Fun fact: Aku mah masih pemula
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Haikal's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikal-266&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikal-266&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haikal-266&theme=radical)](https://git.io/streak-stats)
+
+## 🚀 My Projects
+- [DisplayInformasi](https://github.com/haikal-266/DisplayInformasi)
+- [tugas_php](https://github.com/haikal-266/tugas_php)
+- [sekolah](https://github.com/haikal-266/sekolah)
