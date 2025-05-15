@@ -1,135 +1,145 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00AEEF¢er=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Haikal+Rizky;A+Passionate+Web+Developer;Continuously+Learning+New+Tech;Exploring+the+World+of+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=600&size=30&pause=1000&color=D4AF37¢er=true&vCenter=true&random=false&width=500&lines=Greetings%2C+Noble+Visitor%21;I+am+Haikal+Rizky;A+Seeker+of+Knowledge+in+Code;Crafting+Digital+Realms" alt="Typing SVG - Haikal Rizky" />
+  <!-- Alternatif font jika MedievalSharp tidak render baik: Cinzel, Uncial Antiqua, atau font serif default -->
+  <!-- Alternatif warna: color=C0C0C0 (silver), color=B8860B (darkgoldenrod) -->
 </p>
 
 <p align="center">
   <a href="https://github.com/haikal-266">
-    <img src="https://komarev.com/ghpvc/?username=haikal-266&label=Profile%20Views&color=0e75b6&style=flat-square" alt="haikal-266" />
+    <img src="https://komarev.com/ghpvc/?username=haikal-266&label=Profile%20Scrolls%20Unfurled&color=8B4513&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/haikal-266?tab=followers">
-    <img src="https://img.shields.io/github/followers/haikal-266?label=Followers&style=flat-square&logo=github&color=0e75b6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/haikal-266?label=Fellow%20Adventurers&style=flat-square&logo=github&color=8B4513&logoColor=white" alt="GitHub Followers"/>
   </a>
 </p>
 
-## 👨‍💻 Tentang Saya | About Me
+---
 
-👋 Halo! Saya Haikal Rizky Tri Pramudya, seorang antusias teknologi dengan fokus pada **Web Development**. Saya selalu bersemangat untuk mempelajari hal-hal baru dan meningkatkan kemampuan saya dalam menciptakan solusi digital yang inovatif dan bermanfaat.
+## 📜 Tentang Saya | About This Chronicler
 
-- 🌱 Saat ini saya sedang memperdalam **Pengembangan Web Modern** (fokus pada MERN stack, Next.js, atau teknologi backend lain jika relevan).
-- 👯 Saya terbuka untuk berkolaborasi dalam proyek-proyek open source yang menarik.
-- 🤔 Saya mencari bantuan untuk lebih memahami arsitektur microservices (contoh, bisa diganti).
-- 💬 Tanya saya tentang **PHP, Laravel, dan dasar-dasar JavaScript**.
-- 📫 Cara menghubungi saya: Lihat bagian "Terhubung Dengan Saya" di bawah.
-- 😄 Kata ganti: Dia/Dirinya (He/Him)
-- ⚡ Fakta menyenangkan: Saya percaya bahwa bug adalah fitur yang belum terdokumentasi dengan baik! 😉
+🧙‍♂️ Salutations! I am **Haikal Rizky Tri Pramudya**, a technomancer focusing his arts on **Web Development**. I journey through ancient scripts and modern incantations to forge innovative and useful digital artifacts.
 
-## 🛠️ Keahlian & Alat | Skills & Tools
+- 🌱 Currently, I am delving deeper into the arcane scrolls of **Modern Web Development** (focusing on the MERN stack, Next.js, or other mystical backend arts).
+- ⚔️ I welcome alliances for noble open-source quests.
+- 🤔 I seek wisdom in understanding the grand architecture of microservices.
+- 💬 Ask me about the ancient tongues of **PHP, Laravel, and the foundational runes of JavaScript**.
+- 📫 To send a raven: See "Connect with This Scribe" below.
+- 📜 Pronouns: He/Him
+- ✨ Fun fact: I believe bugs are merely mischievous sprites hiding in the code! 😉
 
-Berikut adalah beberapa teknologi dan alat yang saya gunakan dan pelajari:
+---
+
+## 🛠️ Arsenal & Arcane Tools | Skills & Tools
+
+Behold, the technologies and tools I wield in my craft:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,blade,html,css,js,mysql,bootstrap,tailwind,figma,git,github,vscode,postman&perline=7" />
-    <!-- Tambahkan ikon lain yang relevan, misal: react, vue, nodejs, express, mongodb, docker, java, python, dll. -->
-    <!-- Untuk menambahkan, cukup tulis namanya setelah &perline=X, contoh: &perline=7&i=react,vue -->
+    <img src="https://skillicons.dev/icons?i=php,laravel,blade,html,css,js,mysql,bootstrap,tailwind,figma,git,github,vscode,postman&theme=dark&perline=7" />
+    <!-- theme=dark pada skillicons memberi nuansa lebih cocok -->
   </a>
 </p>
 
-## 📊 Statistik GitHub Saya | My GitHub Stats
+---
 
-Berikut adalah beberapa statistik aktivitas GitHub saya:
+## 📊 My GitHub Codex | My GitHub Stats
+
+Herein lies a record of my endeavors in the GitHub realm:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haikal-266&show_icons=true&locale=id&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Haikal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haikal-266&show_icons=true&locale=id&theme=transparent&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=F5DEB3&icon_color=8B4513&rank_icon=github" alt="Haikal's GitHub Stats" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haikal-266&layout=compact&locale=id&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Bahasa Teratas Haikal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haikal-266&layout=compact&locale=id&theme=transparent&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=F5DEB3&langs_count=8" alt="Haikal's Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=haikal-266&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak GitHub Haikal" />
+  <img align="center" src="https://streak-stats.demolab.com?user=haikal-266&theme=dark-नेत्र&background=00000000&hide_border=true&stroke=F5DEB3&ring=D4AF37&fire=D4AF37&currStreakNum=F5DEB3&sideNums=D4AF37&currStreakLabel=F5DEB3&sideLabels=D4AF37&dates=C0C0C0" alt="Haikal's GitHub Streak" />
+  <!-- Alternatif tema streak: default, dark, highcontrast,radical, tokyonight (pilih yang paling pas) -->
+  <!-- bg_color=00000000 untuk transparansi pada tema gelap GitHub -->
 </p>
 
-<!-- Animasi Kontribusi Ular (Opsional, butuh setup GitHub Action) -->
-<!-- Jika ingin menggunakan ini, kamu perlu membuat GitHub Action agar gambar ini di-generate secara otomatis -->
+<!-- Optional: GitHub Contribution Snake Animation (Requires GitHub Action setup) -->
 <!-- <p align="center">
-  <img src="https://github.com/haikal-266/haikal-266/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" />
+  <img src="https://github.com/haikal-266/haikal-266/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid - A serpent marking my passage through code" />
 </p> -->
 
-## 🚀 Proyek Unggulan Saya | My Featured Projects
+---
 
-Berikut adalah beberapa proyek yang telah atau sedang saya kerjakan:
+## 🚀 My Legendary Quests | My Featured Projects
+
+Behold, some of the artifacts I have forged or am currently crafting:
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DisplayInformasi</h3>
+      <h3 align="center" style="color:#D4AF37;">DisplayInformasi</h3>
       <p align="center">
         <a href="https://github.com/haikal-266/DisplayInformasi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikal-266&repo=DisplayInformasi&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DisplayInformasi"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikal-266&repo=DisplayInformasi&theme=transparent&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=F5DEB3&icon_color=8B4513" alt="DisplayInformasi Project Pin"/>
         </a>
       </p>
-      <p align="center">
-        Deskripsi singkat tentang proyek DisplayInformasi. Teknologi yang digunakan: Laravel, Blade, dll.
+      <p align="center" style="color:#F5DEB3;">
+        A chronicle of information display. Forged with: Laravel, Blade, etc.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">tugas_php</h3>
+      <h3 align="center" style="color:#D4AF37;">tugas_php</h3>
       <p align="center">
         <a href="https://github.com/haikal-266/tugas_php">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikal-266&repo=tugas_php&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="tugas_php"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikal-266&repo=tugas_php&theme=transparent&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=F5DEB3&icon_color=8B4513" alt="tugas_php Project Pin"/>
         </a>
       </p>
-      <p align="center">
-        Deskripsi singkat tentang proyek tugas_php. Teknologi yang digunakan: PHP Native, dll.
+      <p align="center" style="color:#F5DEB3;">
+        Ancient scrolls of PHP assignments. Crafted with: Native PHP, etc.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">sekolah</h3>
+      <h3 align="center" style="color:#D4AF37;">sekolah</h3>
       <p align="center">
         <a href="https://github.com/haikal-266/sekolah">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikal-266&repo=sekolah&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="sekolah"/>
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=haikal-266&repo=sekolah&theme=transparent&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=F5DEB3&icon_color=8B4513" alt="sekolah Project Pin"/>
         </a>
       </p>
-      <p align="center">
-        Deskripsi singkat tentang proyek sekolah. Teknologi yang digunakan: [Sebutkan Teknologi].
+      <p align="center" style="color:#F5DEB3;">
+        Chronicles of the School. Forged with: [Specify Technologies].
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- Tambahkan Proyek Lain di Sini -->
-      <h3 align="center">[Nama Proyek Berikutnya]</h3>
+      <!-- Add Other Quests Here -->
+      <h3 align="center" style="color:#D4AF37;">[Next Legendary Quest]</h3>
       <p align="center">
-        <!-- Link ke Gambar Pin Proyek -->
+        <!-- Link to Pinned Project Image -->
       </p>
-      <p align="center">
-        Deskripsi singkat proyek berikutnya.
+      <p align="center" style="color:#F5DEB3;">
+        A brief legend of this upcoming quest.
       </p>
     </td>
   </tr>
 </table>
 
-## 🏆 Penghargaan & Sertifikasi (Opsional) | Awards & Certifications (Optional)
+---
 
-- 🥇 [Nama Penghargaan/Sertifikasi 1] - [Institusi] ([Tahun])
-- 📜 [Nama Penghargaan/Sertifikasi 2] - [Institusi] ([Tahun])
+## 🏆 Edicts & Accolades (Optional) | Awards & Certifications (Optional)
 
-## 📬 Terhubung Dengan Saya | Connect with Me
+- 🏅 [Name of Edict/Accolade 1] - [Awarding Kingdom/Guild] ([Year of Decree])
+- 📜 [Name of Edict/Accolade 2] - [Awarding Kingdom/Guild] ([Year of Decree])
 
-Jangan ragu untuk menghubungi saya atau melihat profil saya di platform lain:
+---
+
+## 📬 Send a Raven | Connect with Me
+
+Feel free to dispatch a messenger or view my chronicles on other platforms:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/haikal-rizky-t-ab3539266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Haikal"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B4513" alt="LinkedIn - Haikal's Professional Heraldry"/>
   </a>
   <a href="https://instagram.com/kall266" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram kall266"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=800000" alt="Instagram - Haikal's Pictorial Scrolls"/>
   </a>
-  <!-- Tambahkan media sosial lain jika ada, misal:
-  <a href="https://twitter.com/[USERNAME_TWITTERMU]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter [USERNAME_TWITTERMU]"/>
-  </a>
-  -->
+  <!-- Add other social carrier pigeons if you have them -->
 </p>
 
 ---
-<p align="center">✨ Terima kasih telah berkunjung! ✨</p>
+<p align="center" style="color:#D4AF37;">✨ May your code be bug-free and your quests legendary! ✨</p>
