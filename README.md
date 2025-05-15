@@ -1,9 +1,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333¢er=true&vCenter=true&width=500&lines=Hello%2C+Welcome+to+my+Profile!;I+am+Haikal+Rizky;A+Passionate+Web+Developer;Building+Digital+Solutions" alt="Typing SVG - Haikal Rizky" />
-  <!--
-    Alternative fonts: JetBrains Mono, Source Code Pro, or remove 'font' parameter for system default.
-    For dark mode GitHub, consider color=CCCCCC or a light neutral.
-  -->
 </p>
 
 <p align="center">
@@ -37,7 +33,7 @@ Here are some of the technologies and tools I work with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,blade,html,css,js,mysql,bootstrap,tailwind,figma,git,github,vscode,postman&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,react,mysql,bootstrap,tailwind,figma,git,github,vscode,postman&theme=light&perline=7" />
     <!-- You can change theme to 'dark' if you prefer and predominantly use GitHub dark mode -->
   </a>
 </p>
