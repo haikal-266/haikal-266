@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Haikal Rizky Tri Pramudya
 
 - 🌱 I’m currently learning web development
-- 📫 How to reach me: [Instagram](https://instagram.com/kall266) | [LinkedIn]([https://linkedin.com/in/Haikal](https://www.linkedin.com/in/haikal-rizky-t-ab3539266/))
+- 📫 How to reach me: [Instagram](https://instagram.com/kall266) | [LinkedIn](https://www.linkedin.com/in/haikal-rizky-t-ab3539266/))
 - ⚡ Fun fact: Aku mah masih pemula
 
 ## 🛠️ My Skills
